@@ -59,11 +59,27 @@
 </a>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehoph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehoph&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/kkuavms5evjhllltcmqt0k2jy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kkuavms5evjhllltcmqt0k2jy&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <img height="200" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=500&h=300&crop=1"  />
 </div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
 
 ###
 
