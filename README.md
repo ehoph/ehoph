@@ -58,17 +58,14 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
 </a>
 </div>
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehoph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehoph&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/kkuavms5evjhllltcmqt0k2jy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kkuavms5evjhllltcmqt0k2jy&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
